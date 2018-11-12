@@ -1,5 +1,9 @@
 # Journaly
 A simple journal in your terminal.
+
+**To Install:**
+ `Pip install journaly`
+ 
 **Commands:**
 * `journaly help` for help information
 * `journaly new` to create a new entry
